@@ -59,4 +59,3 @@ if __name__ == "__main__":
 ## License 📄
 
 This project is licensed under the terms of the [MIT license](LICENSE).
-```
