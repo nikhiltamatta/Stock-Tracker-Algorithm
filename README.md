@@ -55,4 +55,8 @@ if __name__ == "__main__":
 
 - The script fetches stock prices every minute by default. You can adjust the interval by changing the sleep time in the `track_stocks` function.
 - Alpha Vantage API has usage limits for free accounts. Make sure to check their [documentation](https://www.alphavantage.co/documentation/) for more information.
+
+## License 📄
+
+This project is licensed under the terms of the [MIT license](LICENSE).
 ```
