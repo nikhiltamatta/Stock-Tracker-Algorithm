@@ -11,7 +11,7 @@ This Python script tracks the stock prices of a given list of companies using th
 2. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your_username/stock-tracker.git
+   git clone https://github.com/nikhiltamatta/stock-tracker.git
    ```
 
 3. **Install Dependencies**
